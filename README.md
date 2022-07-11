@@ -2,4 +2,4 @@
 
 ## Результат вы можете посмотреть тут 
 
-[colorClock](https://slider-iota.vercel.app/)
+[slider](https://slider-iota.vercel.app/)
